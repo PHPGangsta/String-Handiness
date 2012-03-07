@@ -11,13 +11,13 @@ This PHP script calculates which hand is used more when writing a string.
 Usage:
 ------
 
-# php stringhandiness.php           <-- uses array defined in script
-# php stringhandiness.php text      <-- uses parameter as string
-# php stringhandiness.php file.txt  <-- reads file, one string per line
+php stringhandiness.php           <-- uses array defined in script
+php stringhandiness.php text      <-- uses parameter as string
+php stringhandiness.php file.txt  <-- reads file, one string per line
 
 Output:
 
-This is a small script to calculate the handiness of strings.
+```This is a small script to calculate the handiness of strings.
 1 means left hand only, -1 means right hand only.
 
 String                        	Value
@@ -33,7 +33,7 @@ kliewe                        	0
 z13ml1chkr455espa55w0rt       	0.39
 
 Done. (C) by Michael Kliewe
-
+```
 
 Notes:
 ------
