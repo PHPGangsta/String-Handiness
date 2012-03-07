@@ -17,23 +17,23 @@ php stringhandiness.php file.txt  <-- reads file, one string per line
 
 Output:
 
-```This is a small script to calculate the handiness of strings.
-1 means left hand only, -1 means right hand only.
+    This is a small script to calculate the handiness of strings.
+    1 means left hand only, -1 means right hand only.
 
-String                        	Value
-========================================
-password                      	0.5
-123456                        	1
-facebook1                     	0.33
-phpgangsta                    	0.2
-passwort                      	0.5
-12345678                      	0.5
-michael                       	-0.14
-kliewe                        	0
-z13ml1chkr455espa55w0rt       	0.39
+    String                        	Value
+    ========================================
+    password                      	0.5
+    123456                        	1
+    facebook1                     	0.33
+    phpgangsta                    	0.2
+    passwort                      	0.5
+    12345678                      	0.5
+    michael                       	-0.14
+    kliewe                        	0
+    z13ml1chkr455espa55w0rt       	0.39
 
-Done. (C) by Michael Kliewe
-```
+    Done. (C) by Michael Kliewe
+
 
 Notes:
 ------
