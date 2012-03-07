@@ -11,9 +11,9 @@ This PHP script calculates which hand is used more when writing a string.
 Usage:
 ------
 
-php stringhandiness.php           <-- uses array defined in script
-php stringhandiness.php text      <-- uses parameter as string
-php stringhandiness.php file.txt  <-- reads file, one string per line
+* php stringhandiness.php           <-- uses array defined in script
+* php stringhandiness.php text      <-- uses parameter as string
+* php stringhandiness.php file.txt  <-- reads file, one string per line
 
 Output:
 
